@@ -1,3 +1,3 @@
 # 🧶 Playground
 
-Testing environment for fun and discovery!
+Space playground for fun, testing, and discovery!
