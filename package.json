@@ -27,9 +27,9 @@
     "autoprefixer": "^9.6.1",
     "parcel-bundler": "^1.12.3",
     "sass": "^1.22.10",
-    "typescript": "^3.5.3"
+    "typescript": "^3.6.2"
   },
   "dependencies": {
-    "@nekobird/rocket": "0.0.121"
+    "@nekobird/rocket": "0.0.127"
   }
 }
